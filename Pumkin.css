@@ -1,0 +1,25 @@
+body{
+	background-color: rgb(255, 217, 171);
+}
+h1{
+	text-align: center;
+	color: #5fa7ff;
+}
+p{
+	text-align: left;
+	background-color:rgb(255, 230, 197);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#pumpkin{
+	border:5px solid #ffafab;
+	background-color: #fffcf8;
+}
+span{
+	color: #ff665f;
+
+}
